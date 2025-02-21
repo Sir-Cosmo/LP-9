@@ -13,4 +13,4 @@ Ein Projekt aus dem Buch "C# for Dummies"
 # 21.02.
 - [ ] Modul 114 Auftrag 1720
 - [ ] Modul 114 Auftrag 1723
-- [ ] LB 347
+- [ ] LB 295
