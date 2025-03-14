@@ -25,7 +25,7 @@ Ein Projekt aus dem Buch "C# for Dummies"
 - [X] Bewerbugnsgespräch 
 - [X] Angular einführung
 
-# 07.03.
-- [X] Angular Kurs
-- [X] Angular Kurs 
-- [X] Angular Kurs
+# 14.03.
+- [ ] Angular Kurs
+- [ ] Angular Kurs 
+- [ ] Angular Kurs
