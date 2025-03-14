@@ -11,6 +11,21 @@ Was wäre ein geeignetes Projekt für diese LP9?
 Ein Projekt aus dem Buch "C# for Dummies"
 
 # 21.02.
-- [ ] Modul 114 Auftrag 1720
-- [ ] Modul 114 Auftrag 1723
-- [ ] LB 295
+- [X] Modul 114 Auftrag 1720
+- [X] Modul 114 Auftrag 1723
+- [X] LB 295
+
+# 21.02.
+- [X] LB 295
+- [X] LB 295
+- [X] LB 295
+
+# 07.03.
+- [X] Bewerbugnsgespräch Vorbereitung
+- [X] Bewerbugnsgespräch 
+- [X] Angular einführung
+
+# 07.03.
+- [X] Angular Kurs
+- [X] Angular Kurs 
+- [X] Angular Kurs
