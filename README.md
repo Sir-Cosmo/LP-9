@@ -29,3 +29,9 @@ Ein Projekt aus dem Buch "C# for Dummies"
 - [ ] Angular Kurs
 - [ ] Angular Kurs 
 - [ ] Angular Kurs
+
+# 21.03.
+- [ ] Angular Kurs
+- [ ] Angular Kurs 
+- [ ] Angular Kurs
+
